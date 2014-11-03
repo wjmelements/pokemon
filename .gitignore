@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+# vim
+*.swp
+*.swo
+
+# Makefile
+lib/
+bin/
+tst/bin/
