@@ -1,0 +1,7 @@
+##### Instructions
+Use wget or equivalent to fetch the latest List of Pokemon by Base Stats page from bulbapedia.
+
+make
+bin/rank `file`
+
+It will parse and rank pokemon by base stats, double-counting the higher of attack and special attack and subtracting the lower.
